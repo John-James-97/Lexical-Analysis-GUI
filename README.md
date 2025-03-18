@@ -76,7 +76,7 @@ This project provides a Graphical User Interface (GUI) for a lexical analyzer fo
 
 ## Project Details
 
-- **Author**: Geoffrey Giordano
+- **Author**: John James
 - **Tree Visualization**: Built using the `treelib` library.
 - **File Logging**: Outputs parse tree data to `tree.txt`.
 
